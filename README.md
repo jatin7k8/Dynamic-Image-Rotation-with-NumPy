@@ -3,7 +3,7 @@
     <h1>Project Title and Description: 🔄📸 Scooby Image Rotation using numpy</h1>
     <p>Project video link: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7109709801193914369/?originTrackingId=vPdLJ43bSsekoLQ1Vc6VTg%3D%3D">Watch Video</a></p>
     <p>Code link: <a href="https://github.com/jatin7k8/Python_mIni_projects/blob/main/min_project_create_gif.ipynb">View Code</a></p>
-    <img src="https://github.com/jatin7k8/Python_mIni_projects/blob/main/scooby_rotation.gif" alt="Demo">
+    <img src="https://github.com/jatin7k8/Dynamic-Image-Rotation-with-NumPy/blob/main/scooby_rotation.gif" alt="Demo">
     <p>An interactive Python project to rotate images using numpy and PIL libraries.</p>
 
 * An interactive Python project to rotate images using numpy and PIL libraries.
